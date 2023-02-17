@@ -1,0 +1,16 @@
+﻿public class PlayerContext
+{
+    public Room room;   string datatype  
+    public PlayerSprite player; string datatype
+    internal bool noDoor = false;  dit is een bool datatype
+    internal int camX; integer en variables  datatype
+    internal int camY; integer en variables  datatype
+    internal readonly KeyBind[] keysdown = new KeyBind[5]; string datatype met arraies maar dat kan ook interger zijn
+    internal int lastKeyDown; integer datatype
+    internal Bitmap buffer; string datatype
+    internal Graphics g; char datatype
+    internal int totalGoldPicked; interger datatype
+    internal readonly int index; interger datatype
+    internal string name; dit is een string type
+    internal float runTime = 3;  float datatype kan zijn float of double als ze zijn met decimalen afhankelijk van situaties.  
+}

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projectAddOpdracht", "MyFIRSTApp\projectAddOpdracht.csproj", "{7981A176-1A5C-414E-A81C-2114383EE756}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpOpdrachten0", "CSharpOpdrachten0\CSharpOpdrachten0.csproj", "{F1718F44-8710-4ABA-BD18-03EF328E5791}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpOpdrachten0", "CSharpOpdrachten0\CSharpOpdrachten0.csproj", "{F1718F44-8710-4ABA-BD18-03EF328E5791}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
