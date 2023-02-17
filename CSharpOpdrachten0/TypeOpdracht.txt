@@ -3,8 +3,8 @@
     public Room room;   string datatype  
     public PlayerSprite player; string datatype
     internal bool noDoor = false;  dit is een bool datatype
-    internal int camX; integer variables  datatype
-    internal int camY; integer variables  datatype
+    internal int camX; integer  datatype
+    internal int camY; integer  datatype
     internal readonly KeyBind[] keysdown = new KeyBind[5]; string datatype met arraies maar dat kan ook interger zijn
     internal int lastKeyDown; integer datatype
     internal Bitmap buffer; string datatype
